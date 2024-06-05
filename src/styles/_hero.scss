@@ -17,6 +17,12 @@
         margin-top: -55px;
     }
 
+    @media (min-width: 1440px) {
+        background-image: url(../images/hero_desktop.jpeg);
+        background-size: cover;
+        background-position: center;
+    }
+
     .button {
         margin-top: 2vw;
         margin-bottom: 8px;
@@ -69,3 +75,5 @@
         }
     }
 }
+
+
